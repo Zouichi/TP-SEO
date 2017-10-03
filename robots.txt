@@ -1,0 +1,8 @@
+# Sitemap
+Sitemap: https://fictifdrive.com/sitemap.xml
+
+# Directives
+User-agent : *
+Disallow: /admin
+Disallow: /components
+Disallow: /scripts

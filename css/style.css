@@ -1,0 +1,16 @@
+h1.title {
+  font-size: 2.5em;
+}
+
+.head-text {
+  font-size: 1.3em;
+  line-height: 1.4em;
+}
+
+.header {
+	background: url(/HTML/TP-SEO/images/photo-serveur.jpg);
+}
+
+.text-center th {
+	text-align: center;
+}

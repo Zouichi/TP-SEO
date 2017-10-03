@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://www.fictifdrive.com/index.html</loc>
+    </url>
+    <url>
+        <loc>https://www.fictifdrive.com/fonctionnalites.html</loc>
+    </url>
+    <url>
+        <loc>https://www.fictifdrive.com/tarifications.html</loc>
+    </url>
+    <image:image>
+        <image:loc>https://fictifdrive.com/images/photo-john-doe.jpeg</image:loc>
+        <image:title>John Doe</image:title>
+        <image:caption>John Doe, Développeur</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>https://fictifdrive.com/images/photo-1490129811213-02a6f2df1c35.jpeg</image:loc>
+        <image:title>Jane Doe</image:title>
+        <image:caption>Jane Doe, Développeuse</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>https://fictifdrive.com/images/photo-1500619698949-1e9d64ba7110.jpeg</image:loc>
+        <image:title>Arthur Faker</image:title>
+        <image:caption>Arthur Faker, Marketing</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>https://fictifdrive.com/images/photo-serveur.jpg</image:loc>
+        <image:title>Serveur</image:title>
+        <image:caption>Gros plan sur un serveur</image:caption>
+    </image:image>
+</urlset>
